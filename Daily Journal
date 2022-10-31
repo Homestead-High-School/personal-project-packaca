@@ -1,1 +1,3 @@
 Day 1: On day 1 I began by creating a replit to create and test the methods. I started by learning about math.PI and E and how long they go for (about 50 digits). I learned to use math.PI and math.E
+Used recursion to solve fibinacci sequence where it returns the digit that you type in. The code works with return fib(n-1)+fib(n-2); and if n<=1 returns the digit that one is.
+I also used https://docs.oracle.com/javase/7/docs/api/java/util/Scanner.html to relearn scanner to help with the find cost of floor method.
