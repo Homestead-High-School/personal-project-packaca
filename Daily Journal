@@ -5,3 +5,8 @@ I also used https://docs.oracle.com/javase/7/docs/api/java/util/Scanner.html to 
 Day 2: I finished the changeNeeded and created a vsCode file to use, but I found my code didn't run so I didn't change it. Through the changeNeeded had a forever whiile loop
 that I dont understand what the issue is. I was able to fix the while loop and the code works perfectly now. I also began to work on the calculator and used this website
 https://www.javatpoint.com/java-math to find the methods that I could have as a part of my calculator program.
+
+Day 3: I worked on the calculator program and made it working by switching from a while loop to recursion. I made options for trig and inverse trig, the basic four
+square root, cube root, and exponents. I then started to work on an alarm clock which I will try and implement a sound which I havent done before in java.
+https://www.geeksforgeeks.org/play-audio-file-using-java/ is what I used to begin to learn what sound to play.
+https://www.geeksforgeeks.org/java-util-timer-class-java/ for the timer and to understand the clock
