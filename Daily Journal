@@ -10,3 +10,8 @@ Day 3: I worked on the calculator program and made it working by switching from 
 square root, cube root, and exponents. I then started to work on an alarm clock which I will try and implement a sound which I havent done before in java.
 https://www.geeksforgeeks.org/play-audio-file-using-java/ is what I used to begin to learn what sound to play.
 https://www.geeksforgeeks.org/java-util-timer-class-java/ for the timer and to understand the clock
+
+Day 4: I learned that using the timer class is probably not the best way because it is used for much more complex problems. Also, I was struggling with the wait and try catch. I could 
+get it to run without errors, but the wait method would never actually make the program wait and there was no stop in the amount of time that is waited.
+https://www.oreilly.com/library/view/java-threads-second/1565924185/ch04s04.html is a website I began to use to learn more about wait and try catch, but as of now it hasn't worked as I
+have not gotten it done.
