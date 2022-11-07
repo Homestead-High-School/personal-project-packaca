@@ -19,3 +19,9 @@ have not gotten it done.
 Day 5: I finally created a way to make the program wait for the desired time I had to have Jacob come over and help with my program. I used a try catch for the sleep method.
 I used https://docs.oracle.com/javase/tutorial/essential/concurrency/sleep.html to help learn about the sleep method and how to use it in a try catch loop.
 Im suprised that the other ways that I was trying didnt work and how easily this worked suprised me.
+
+Week 1 reflection: The biggest roadblock so far is the resources arent as helpful as I would like. I would find resources to solve the problem but they often did not work for my code for one reason or another.
+As far as on track to complete my goal I would say im at 5/5 because I don't have a hard goal as to how far I want to go and I just want to learn something new about java
+every day that I work on the project. As of now there is nothing that Mr. P can help me with unless there are challenges day to day but nothing is a large issue for this project.
+From the roadblocks I've faced so far I have learned that there are often more than one way to solve a problem and to look for different solutions when there is a problem. For example,
+in the alarm clock method, the timer class would not work any way I tried it so I had to use a sleep method which ended up working for me.
