@@ -36,3 +36,6 @@ Day 8 : I countiuned to make sure the code worked in VSCode. At the start of the
 The different ways to play audio all dont work I wish there was something simple and universal.
 
 Day 9: I started to experiment with the same thing that we had for guitar hero. Its hard to go from haveing a mp3 try to play the sound to having to make your own sound.
+
+Day 10: I finished the alarm clock with help from teacher and got it to play the correct noise. I first had to change from an mp3 to wav file to play the noise I wanted it to play
+I also had to run it through debug to tell me what is wrong even though I was correct.
