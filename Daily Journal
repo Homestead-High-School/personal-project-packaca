@@ -39,3 +39,11 @@ Day 9: I started to experiment with the same thing that we had for guitar hero. 
 
 Day 10: I finished the alarm clock with help from teacher and got it to play the correct noise. I first had to change from an mp3 to wav file to play the noise I wanted it to play
 I also had to run it through debug to tell me what is wrong even though I was correct.
+
+Day 11: I started started to resurch check sums in credit cards as well as corrected the alarm clock method which had stopped working correctly for some time.
+
+Day 12: I finished the checksum method and also quickly made the most basic coinflip method I could think of. I just used a random number then checked if it was greater than 1 or less
+than one after I multipilied it by two.
+
+Day 13: I began to research the Sieve of Eratosthenes as a way to find all prime numbers up until n. I want to code this so I can one, learn the equation and the method, but also 
+to be able to code more complicated math problems with for loops and other methods.
